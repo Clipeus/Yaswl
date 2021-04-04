@@ -21,16 +21,28 @@
     <ClInclude Include="MainWindow.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Misc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OwnerDrawMenuImpl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Registry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolBar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <ClInclude Include="WinApp.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Window.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Misc.h">
+    <ClInclude Include="WindowEx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Registry.h">
+    <ClInclude Include="WindowSubclass.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
